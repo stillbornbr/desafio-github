@@ -1,0 +1,21 @@
+Comandos Git
+git init (iniciar o repositório)
+git add (mover arquivos e dar inicio ao versionamento)
+git commit (iniciar commit)
+
+Flag
+- a (mostrar pasta oculta)
+- m (mensagem) 
+
+
+Cmd Commands
+dir -- (Mostrar diretorios)
+mkdir -- (Criar pasta)
+cd - cd ..  - cd/ --(Entrar na pasta e voltar pastas)
+cls -- (limpar cmd)
+del -- (Deletar)
+rmdir (nome do diretorio) /s /q -- (Remover Diretorios)
+
+Commands
+ssh-keygen -t ed25519 -C (your e-mail)
+eval $(ssh-agent -s)
