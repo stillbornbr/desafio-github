@@ -1,4 +1,4 @@
-Comandos Git
+*Comandos Git
 git init (iniciar o repositório)
 git add (mover arquivos e dar inicio ao versionamento)
 git commit (iniciar commit)
